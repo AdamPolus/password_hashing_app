@@ -1,0 +1,5 @@
+C:\Users\Adam Polus\source\repos\password hashing\password hashing\bin\Release\net6.0-windows\publish\password hashing.exe
+C:\Users\Adam Polus\source\repos\password hashing\password hashing\bin\Release\net6.0-windows\publish\password hashing.dll
+C:\Users\Adam Polus\source\repos\password hashing\password hashing\bin\Release\net6.0-windows\publish\password hashing.deps.json
+C:\Users\Adam Polus\source\repos\password hashing\password hashing\bin\Release\net6.0-windows\publish\password hashing.runtimeconfig.json
+C:\Users\Adam Polus\source\repos\password hashing\password hashing\bin\Release\net6.0-windows\publish\password hashing.pdb
